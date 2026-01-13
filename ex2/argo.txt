@@ -7,9 +7,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/EliMutchnik/devops-experts.git
+    repoURL: git@github.com:Leoultimo/repo-Argo.git
     targetRevision: HEAD
-    path: ./argocd/ex1
+    path: ./repo-Argo/ex2
   destination:
     server: https://kubernetes.default.svc
     namespace: student-apps
