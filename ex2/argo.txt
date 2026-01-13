@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/Leoultimo/repo-Argo.git
     targetRevision: HEAD
-    path: ./repo-Argo/ex2
+    path: ./ex2
   destination:
     server: https://kubernetes.default.svc
     namespace: student-apps
