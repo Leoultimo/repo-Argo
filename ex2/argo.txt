@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:Leoultimo/repo-Argo.git
+    repoURL: https://github.com/Leoultimo/repo-Argo.git
     targetRevision: HEAD
     path: ./repo-Argo/ex2
   destination:
